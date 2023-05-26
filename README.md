@@ -1,0 +1,3 @@
+# animated_text
+this repo contains a html file which displays the entered text in an blured and rotateing manner to make it as an animated and also we can control the display of text by animation delay used in css file...
+feel free to drop your ideas.
